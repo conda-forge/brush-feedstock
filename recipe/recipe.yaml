@@ -1,5 +1,5 @@
 context:
-  version: "0.4.0"
+  version: "0.5.0"
 
 package:
   name: brush
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/reubeno/brush/archive/refs/tags/brush-shell-v${{ version }}.tar.gz
-  sha256: 0cce607454972c18bc4a30d2f44a2c91fccf02c458475fda7720370a3dc8a4f0
+  sha256: c55a57d399112d5509b17518e756acb613886702bccfe9243ba2020a664fc066
 
 build:
   number: 0
